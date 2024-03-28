@@ -25,6 +25,13 @@ Typecho is released under the GNU General Public License 2.0.
 
 ![Typecho](https://typecho.org/usr/themes/bluecode/img/screenshot/st1.png)
 
+## How to install it
+
+sudo chown -R www-data:www-data typecho_folder
+Create a database in your 
+www.your_web.com/typecho/install.php
+
+
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
